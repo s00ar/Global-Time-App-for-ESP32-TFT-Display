@@ -4,8 +4,8 @@
 
 TFT_eSPI tft = TFT_eSPI();
 
-const char* ssid     = "YoNoTengoWifi";
-const char* password = "yateladije";
+const char* ssid     = "";
+const char* password = "";
 
 int simulated_offset = 0;  // Para avanzar horas manualmente
 
