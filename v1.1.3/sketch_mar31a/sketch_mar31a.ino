@@ -4,8 +4,8 @@
 
 TFT_eSPI tft = TFT_eSPI();
 
-const char* ssid     = "YoNoTengoWifi";
-const char* password = "yateladije";
+const char* ssid     = "";
+const char* password = "";
 
 #define BACKLIGHT_PIN 32
 #define SYNC_INTERVAL 300000  // cada 5 minutos
