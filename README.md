@@ -72,11 +72,6 @@ Configure `User_Setup.h` inside `TFT_eSPI`:
 
 ---
 
-## 📷 Screenshots
-![App UI on screen](preview.jpg) *(Insert screenshot of device running)*
-
----
-
 ## 📄 License
 MIT License
 
